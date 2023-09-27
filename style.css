@@ -63,8 +63,6 @@ h2{
     font-size: 20px;
     border-radius: 0 50px 50px 0;
 }
-/*  */
-
 .right{
     flex: 1;
     padding: 30px;
@@ -104,25 +102,3 @@ h2{
         font-size: 15px;
     }
 }
-/* th,td{
-    padding: 10px;
-
-
-}
-.bi-hand-thumbs-up-fill{
-    color: darkblue;
-
-} */
-/* div {
-    
-}
-#sample + .id{
-    background-color: azure !important;
- color:beige;
-
-}
-
-.main>.left{
-background-image: url("https://i.pinimg.com/736x/5d/46/14/5d4614c012b3440de05390c653c59d91.jpg");
-background-repeat: no-repeat;
-} */
